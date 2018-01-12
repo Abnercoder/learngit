@@ -4,4 +4,4 @@ this is second line
 4th, to delete
 add the 5th line
 creating a  new branch is quick AND simple.
-merge test at master
+merge test at both master and feature1
