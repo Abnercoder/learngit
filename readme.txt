@@ -5,4 +5,4 @@ this is second line
 add the 5th line
 creating a  new branch is quick AND simple.
 merge test at both master and feature1
-no ff merge test
+no ff merge test,fix bug 001
